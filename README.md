@@ -1,7 +1,7 @@
 # andamio
 Repository of sound and image samples for the artistic collaborative collective andamio.in </br>
 
-Info
+## Info
 Sounds: </br>
 
 Shakespeare's sonnets 149-154 (English) </br>
