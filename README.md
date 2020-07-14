@@ -1,8 +1,7 @@
 # andamio
 Repository of sound and image samples for the artistic collaborative collective andamio.in </br>
 
-## Info
-Sounds: </br>
+## Sounds: </br>
 
 Shakespeare's sonnets 149-154 (English) </br>
 Voice: Robert Mackay </br>
