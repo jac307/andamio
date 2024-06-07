@@ -31,6 +31,7 @@ Voice: Anna Chahuneau </br>
 
 Add audio samples to Estuary, run in terminal:
 
-!reslist "https://jac307.github.io/MEMORIAS/samples/audioSamples/memorias.json"
+
+!reslist "https://jac307.github.io/andamio/andamio.json"
 
 + [JSON File](andamio.json)
