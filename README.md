@@ -27,5 +27,10 @@ Author: Rolando Rodríguez </br>
 Voice: Anna Chahuneau </br>
 
 -------------------------------------------------------------------------------
-## DESCARGABLES
+## USING SAMPLES
+
+Add audio samples to Estuary, run in terminal:
+
+!reslist "https://jac307.github.io/MEMORIAS/samples/audioSamples/memorias.json"
+
 + [JSON File](andamio.json)
