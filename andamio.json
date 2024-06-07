@@ -1,3 +1,17 @@
 [
-  { "url":"aparece/01.wav","type":"audio","bank":"aparece","n":0},
+  { "url":"148/00.wav","type":"audio","bank":"148","n":0},
+  { "url":"148/01.wav","type":"audio","bank":"148","n":1},
+  { "url":"148/02.wav","type":"audio","bank":"148","n":2},
+  { "url":"148/03.wav","type":"audio","bank":"148","n":3},
+  { "url":"148/04.wav","type":"audio","bank":"148","n":4},
+  { "url":"148/05.wav","type":"audio","bank":"148","n":5},
+  { "url":"148/06.wav","type":"audio","bank":"148","n":6},
+  { "url":"148/07.wav","type":"audio","bank":"148","n":7},
+  { "url":"148/08.wav","type":"audio","bank":"148","n":8},
+  { "url":"148/09.wav","type":"audio","bank":"148","n":9},
+  { "url":"148/10.wav","type":"audio","bank":"148","n":10},
+  { "url":"148/11.wav","type":"audio","bank":"148","n":11},
+  { "url":"148/12.wav","type":"audio","bank":"148","n":12},
+  { "url":"148/13.wav","type":"audio","bank":"148","n":13},
+  { "url":"148/14.wav","type":"audio","bank":"148","n":14}
 ]
