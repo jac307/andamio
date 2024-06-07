@@ -25,3 +25,7 @@ Author and Voice: Rolando Rodríguez </br>
 mother1-3 (English) </br>
 Author: Rolando Rodríguez </br>
 Voice: Anna Chahuneau </br>
+
+-------------------------------------------------------------------------------
+## DESCARGABLES
++ [JSON File](andamio.json)
